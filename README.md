@@ -2,7 +2,9 @@
 本檔案為GhostScript之BAT應用，做得很簡陋，目前只支援繁體中文，等哪天開心了或有高人把它換python或C#編譯我都隨意
 
 # 安裝說明
-本程式目前測試GhostScript 9.54為正常使用，9.55版不知為何會出錯(抓頭)，下載位置：https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/tag/gs9540
+本程式目前測試GhostScript 9.54為正常使用，9.55版不知為何會出錯(抓頭)
+
+下載位置：https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/tag/gs9540
 
 安裝GhostScript時務必將程式指向%ProgramFiles%\gs，否則我程式會說抓不到你的GhostScript唷
 
