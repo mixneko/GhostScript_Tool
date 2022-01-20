@@ -11,6 +11,14 @@
 
 安裝GhostScript時務必將程式指向%ProgramFiles%\gs，否則我程式會說抓不到你的GhostScript唷
 
+# 功能介紹
+
+    1. PDF 轉 PNG(含透明)
+    2. PDF 轉 PNG(不含透明)
+    3. PDF 轉 JPG(不含透明)
+    4. PDF合併(因程式邏輯問題目前只支援兩個PDF合併)
+    5. PDF分割
+
 # 歡迎打賞
 DOGE coin：DAHgcDzckaFsTgyLHqpaDdBBRSy1SDshUM
 
