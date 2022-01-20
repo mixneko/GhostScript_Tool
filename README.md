@@ -1,0 +1,1 @@
+# GhostScript_BAT
