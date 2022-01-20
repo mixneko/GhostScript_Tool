@@ -1,5 +1,7 @@
 # GhostScript_Tool
-本檔案為GhostScript之BAT應用，做得很簡陋，目前只支援繁體中文，等哪天開心了或有高人把它換python或C#編譯我都隨意
+本檔案為GhostScript之Windows BATCH應用，做得很簡陋，目前只支援繁體中文，等哪天開心了或有高人把它換python或C#編譯我都隨意
+
+發想原因：每次都要看官方wiki剪剪貼貼好麻煩，乾脆自己做一個來用
 
 # 安裝說明
 本程式目前測試GhostScript 9.54為正常使用，9.55版不知為何會出錯(抓頭)
