@@ -5,8 +5,9 @@
 
 # 安裝說明
 本程式目前測試GhostScript 9.54為正常使用，9.55版不知為何會出錯(抓頭)
+剛剛測試9.55版又可以用了(wut)，算了，能用就好
 
-下載位置：https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/tag/gs9540
+下載位置：https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/
 
 安裝GhostScript時務必將程式指向%ProgramFiles%\gs，否則我程式會說抓不到你的GhostScript唷
 
