@@ -19,13 +19,4 @@
     4. PDF合併(因程式邏輯問題目前只支援兩個PDF合併)
     5. PDF分割
 
-# 歡迎打賞
-DOGE coin：DAHgcDzckaFsTgyLHqpaDdBBRSy1SDshUM
 
-ETH coin：0x974F80a64289b13C4735b9c4c441abDdd03b445e
-
-ERC20 USDT：0x974F80a64289b13C4735b9c4c441abDdd03b445e
-
-BTC coin：3BdNzPrKDDYnHjehB8w4rHy9saVekeRSqm
-
-ERC20 SHIB coin：0x974F80a64289b13C4735b9c4c441abDdd03b445e
